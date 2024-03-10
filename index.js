@@ -28,7 +28,7 @@ const options = {
         },
       },
     },
-    servers:[{url:'https://instagram-9bbk0x71j-sandeep-7282.vercel.app/'},{url:'https://instagram-api-yjzj.onrender.com/'},
+    servers:[{url:'https://clone-backend-gqep.onrender.com/'},
       {
       url:'http://localhost:4000/'
   }]
